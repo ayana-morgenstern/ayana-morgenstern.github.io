@@ -1,4 +1,3 @@
-# Text Analysis
 ## Reading: *How Not To Read A Million Books*
 
 About what not to read. 
