@@ -1,4 +1,3 @@
-# Visualization
 
 There are lots of different ways to use visualization: it is important to pick how to represent the data based on what you want your audience to understand from it. Visualization can be misleading.
 
