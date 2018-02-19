@@ -1,5 +1,3 @@
-# Computational Creativity
-
 ## Reading: *Making things: Photobashing as Archaeological Remediation? by Tara Copplestone*: 
 - Photobashing: – a technique by which one takes photos and applies various techniques such as painting, filtering, overlaying and otherwise obliterating the original photo through manipulation.
 - Photobashing, due to sitting at an intersection of subjective processes and mechanical capture, allows for some interesting interactions and reflexivity between both sides of this discussion – whilst bashing away you think about how and why the photos were taken in particular ways, how your processes alter or engage with this and how the various remediation’s both affect and effect that relationship.
