@@ -1,5 +1,3 @@
-# Public Humanities Notes
-
 ## Reading: *"The Argument Made By The Absence: On Whiteness, Polychromy, And Diversity In Classics" by Sarah Bond:*
 
 - pol·y·chro·my: the art of painting in several colors, especially as applied to ancient pottery, sculpture, and architecture.
