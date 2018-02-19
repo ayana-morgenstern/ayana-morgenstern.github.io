@@ -1,5 +1,3 @@
-# Social Media
-
 ## *Reading: "10 ways to get started fighting internet propaganda" by Kris Shaffer*:
 - Internet propaganda is such a big problem that it can't go un-addressed. But it's such a big problem that it can be overwhelming to know how to resist it.
 - I define propaganda as the use of one or more media to communicate a message, with the aim of changing someone's mind or actions via psychological manipulation, rather than reasoned discourse.
